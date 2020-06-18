@@ -1,32 +1,20 @@
 [
     {
-      "sonatypeProject": "TestProject1",
+      "sonatypeProject": "demo_1",
       "sonatypeProjectStage": "build",
-      "fortifyApplication": "Fortify-Test1",
+      "fortifyApplication": "demo_1",
       "fortifyApplicationVersion": "1.0"
     },
     {
-      "sonatypeProject": "sandbox-application",
+      "sonatypeProject": "Eightball",
       "sonatypeProjectStage": "build",
-      "fortifyApplication": "Fortify-Test1",
+      "fortifyApplication": "Eightball",
       "fortifyApplicationVersion": "2.0"
     },    
     {
-      "sonatypeProject": "TestProject2",
+      "sonatypeProject": "WebGoat",
       "sonatypeProjectStage": "build",
-      "fortifyApplication": "Fortify-Test2",
+      "fortifyApplication": "WebGoat",
       "fortifyApplicationVersion": "2.0"
-    },    
-    {
-      "sonatypeProject": "TestProject2",
-      "sonatypeProjectStage": "release",
-      "fortifyApplication": "Fortify-Test2",
-      "fortifyApplicationVersion": "3.0"
-    },    
-    {
-      "sonatypeProject": "TestProject1",
-      "sonatypeProjectStage": "stage-release",
-      "fortifyApplication": "Fortify-Test2",
-      "fortifyApplicationVersion": "1.0"
     }
 ]
